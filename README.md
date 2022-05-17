@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashi-data
-- 👀 I’m interested in all data and sw engineering related stuffs
+- 👀 I’m interested in data-science, e-commerce
 - 🌱 I’m currently learning spark
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me shashibssingh@gmail.com
